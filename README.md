@@ -9,9 +9,9 @@ The project lists and links a webpage explaining the different development tools
 
 The website can be found [here!](https://davidtmiller2010.github.io/my-first-website/index.html)
 
-##Developement Tools
+## Developement Tools
 The tools used for the creation and management of this project included Cloud9,
 More information on these tools can be found by following the links in the webpage.
 
-##Technologies
+## Technologies
 HTML and CSS were used to write this project in Cloud9. 
